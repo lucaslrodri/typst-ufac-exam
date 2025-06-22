@@ -51,7 +51,7 @@
   box(width: 100%)[
     #grid(rows: (auto, auto),
       grid(columns: (auto, auto), gutter: 0.7em,
-        image("assets/ufac.png", height: 2.5cm, width: 2.7cm, fit: "contain"),
+        image("../assets/ufac.png", height: 2.5cm, width: 2.7cm, fit: "contain"),
         grid(rows: (auto, 12pt, 20pt), gutter: 1em,
           grid(columns: (auto, 1fr, auto), 
             align(left + top)[
