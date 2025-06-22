@@ -1,0 +1,11 @@
+[package]
+name = "ufac-exam"
+version = "0.0.1"
+entrypoint = "lib.typ"
+authors = ["Lucas Lima Rodrigues <https://github.com/lucaslrodri>"]
+license = "MIT"
+description = "Exam template for Federal University of Acre"
+repository = "https://github.com/lucaslrodri/typst-touying-ufac"
+keywords = ["exercises", "exam", "ufac", "university", "lecture", "acre"]
+compiler = "0.13"
+exclude = [".github/", "examples/"]
